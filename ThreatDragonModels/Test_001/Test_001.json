@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Test_001",
+    "owner": "Joshua Groda",
+    "description": "test"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Test_001_01",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Joshua Groda"
+  }
+}
